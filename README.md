@@ -1,7 +1,5 @@
 # 박예찬 (Yechun Park)
 
-![Profile Banner](https://yourbannerimageurl.com)
-
 ## 소개
 
 안녕하세요! 저는 공공서비스(정책)을 전공한 후, AI를 전공으로 대학원에서 학업을 이어가고 있는 박예찬입니다. 다양한 프로젝트를 통해 파이썬을 활용한 데이터 분석 및 머신러닝 모델 개발에 열정을 가지고 있습니다.
@@ -19,8 +17,8 @@
 
 ## 연락처
 
-- **이메일:** [qkrd1285@naver.com](mailto:yechun.park@example.com)
-- **LinkedIn:** [LinkedIn 프로필](https://www.linkedin.com/in/yechun-park)
+- **이메일:** [qkrd1285@naver.com](mailto:qkrd1285@naver.com)
+- **Instagram:** [Instagram 프로필](@yechan_4989)
 - **GitHub:** [GitHub 프로필](https://github.com/yeeachan)
 
 ## GitHub Stats
